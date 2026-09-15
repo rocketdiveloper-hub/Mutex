@@ -1,0 +1,12 @@
+{
+  "name": "mutex-portfolio-server",
+  "version": "1.0.0",
+  "description": "Minimal Express backend for the MUTEX portfolio contact form.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
